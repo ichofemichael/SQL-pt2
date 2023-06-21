@@ -19,4 +19,4 @@ SELECT: Retrieves data from one or more tables based on specified criteria.
 INSERT: Adds new rows of data into a table.
 UPDATE: Modifies existing data within a table.
 DELETE: Deletes rows of data from a table.
-MERGE: Combines insert, update, and delete operations into a single statement....
+MERGE: Combines insert, update, and delete operations into a single statement.
